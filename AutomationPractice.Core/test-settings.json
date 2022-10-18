@@ -1,0 +1,11 @@
+﻿{
+  "TestSessionSettings": {
+    "Browser": "firefox",
+    "DriverPath": "C:\\Projects\\WebDrivers",
+    "DefaultTimeoutSeconds": 20,
+    "Headless": false,
+    "ApplicationUrl": "https://www.google.co.uk",
+    "UserName": "",
+    "Password": ""
+  }
+}
